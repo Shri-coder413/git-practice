@@ -1,2 +1,2 @@
 Name: Shrinivas
-Role: Junior JavaScript Developer
+Role: Full Stack JavaScript Developer
